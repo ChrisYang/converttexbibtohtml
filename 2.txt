@@ -1,0 +1,402 @@
+
+@article{yang2014face,
+  title={Face sketch landmarks localization in the wild},
+  author={Yang, Heng and Zou, Changqing and Patras, Ioannis},
+  year={2014},
+journal = {IEEE Signal Processing Letters}
+}
+
+@inproceedings{jiastructured,
+  title={Structured Semi-supervised Forest for Facial Landmarks Localization with Face Mask Reasoning},
+  author={Jia, Xuhui and Yang, Heng and Lin, Angran and Chan, Kwok-Ping and Patras, Ioannis},
+booktitle={BMVC},
+year  = {2014}
+}
+@inproceedings{yu2014consensus,
+  title={Consensus of Regression for Occlusion-Robust Facial Feature Localization},
+  author={Yu, Xiang and Lin, Zhe and Brandt, Jonathan and Metaxas, Dimitris N},
+  booktitle={ECCV},
+  pages={105--118},
+  year={2014},
+  publisher={Springer}
+}
+@inproceedings{chen2014joint,
+  title={Joint Cascade Face Detection and Alignment},
+  author={Chen, Dong and Ren, Shaoqing and Wei, Yichen and Cao, Xudong and Sun, Jian},
+  booktitle={ECCV},
+  pages={109--122},
+  year={2014},
+  publisher={Springer}
+}
+@inproceedings{zafeiriou2014joint,
+  title={Joint Unsupervised Face Alignment and Behaviour Analysis},
+  author={Zafeiriou, Lazaros and Antonakos, Epameinondas and Zafeiriou, Stefanos and Pantic, Maja},
+  booktitle={ECCV},
+  pages={167--183},
+  year={2014},
+  publisher={Springer}
+}
+@inproceedings{zhang2014facial,
+  title={Facial Landmark Detection by Deep Multi-task Learning},
+  author={Zhang, Zhanpeng and Luo, Ping and Loy, Chen Change and Tang, Xiaoou},
+  booktitle={ECCV},
+  pages={94--108},
+  year={2014},
+  publisher={Springer}
+}
+@inproceedings{cfaneccv2014,
+	Author = {Zhang, Jie and Shan, Shiguang and Kan, Meina and Chen, Xilin},
+	Booktitle = {ECCV},
+	Title = {Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment},
+	Year = {2014}}
+
+@inproceedings{kazemi2014one,
+  title={One Millisecond Face Alignment with an Ensemble of Regression Trees},
+  author={Kazemi, Vahid and Sullivan, Josephine},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{renface,
+	Author = {Ren, Shaoqing and Cao, Xudong and Wei, Yichen and Sun, Jian},
+	Booktitle = {CVPR},
+	Title = {Face Alignment at 3000 FPS via Regressing Local Binary Features},
+	Year = {2014}}
+
+@inproceedings{tzimiropoulos2014gauss,
+	Author = {Tzimiropoulos, Georgios and Pantic, Maja},
+	Booktitle = {CVPR},
+	Title = {Gauss-newton deformable part models for face alignment in-the-wild},
+	Year = {2014}}
+
+@inproceedings{asthanaincremental,
+	Author = {Asthana, Akshay and Zafeiriou, Stefanos and Cheng, Shiyang and Pantic, Maja},
+	Booktitle = {CVPR},
+	Title = {Incremental Face Alignment in the Wild},
+	Year = {2014}}
+
+@inproceedings{smithnonparametric,
+	Author = {Smith, Brandon M and Brandt, Jonathan and Lin, Zhe and Zhang, Li},
+	Booktitle = {CVPR},
+	Title = {Nonparametric Context Modeling of Local Appearance for Pose-and Expression-Robust Facial Landmark Localization},
+	Year = {2014}}
+
+@inproceedings{sagonas300,
+	Author = {Sagonas, Christos and Tzimiropoulos, Georgios and Zafeiriou, Stefanos and Pantic, Maja},
+	Booktitle = {ICCV},
+	Title = {300 Faces in-the-Wild Challenge: The first facial landmark localization Challenge},
+	Year = {2013}}
+
+@inproceedings{sagonascvprw,
+	Author = {Sagonas, C. and Tzimiropoulos, G. and Zafeiriou, S. and Pantic, M.},
+	Booktitle = {CVPRW},
+	Title = {A Semi-automatic Methodology for Facial Landmark Annotation},
+	Year = {2013}}
+
+@inproceedings{Zhao_2013_ICCV,
+	Author = {Xiaowei Zhao and Shiguang Shan and Xiujuan Chai and Xilin Chen},
+	Booktitle = {ICCV},
+	Title = {Cascaded Shape Space Pruning for Robust Facial Landmark Detection},
+	Year = {2013}}
+
+@article{cox2013csiro,
+	Author = {Cox, M and Nuevo-Chiquero, J and Saragih, JM and Lucey, S},
+	Journal = {AFGR},
+	Title = {CSIRO Face Analysis SDK},
+	Year = {2013}}
+
+@inproceedings{sun2013deep,
+	Author = {Sun, Yi and Wang, Xiaogang and Tang, Xiaoou},
+	Booktitle = {CVPR},
+	Title = {Deep Convolutional Network Cascade for Facial Point Detection},
+	Year = {2013}}
+
+@inproceedings{cheng2013deformable,
+	Author = {Cheng, Xin and Fookes, Clinton B and Sridharan, Sridha and Saragih, Jason and Lucey, Simon},
+	Booktitle = {AFGR},
+	Title = {Deformable face ensemble alignment with robust grouped-L1 anchors},
+	Year = {2013}}
+
+@inproceedings{shen2013detecting,
+	Author = {Shen, Xiaohui and Lin, Zhe and Brandt, Jonathan and Wu, Ying},
+	Booktitle = {CVPR},
+	Title = {Detecting and aligning faces by image retrieval},
+	Year = {2013}}
+
+@inproceedings{Zhou_2013_ICCV,
+	Author = {Feng Zhou and Jonathan Brandt and Zhe Lin},
+	Booktitle = {ICCV},
+	Title = {Exemplar-Based Graph Matching for Robust Facial Landmark Localization},
+	Year = {2013}}
+
+@inproceedings{yu2013explicit,
+	Author = {Yu, Xiang and Yang, Fei and Huang, Junzhou and Metaxas, DN},
+	Booktitle = {AFGRW},
+	Title = {Explicit occlusion detection based deformable fitting for facial landmark localization},
+	Year = {2013}}
+
+@inproceedings{wu2013facial,
+	Author = {Wu, Yue and Wang, Zuoguan and Ji, Qiang},
+	Booktitle = {CVPR},
+	Title = {Facial Feature Tracking under Varying Facial Expressions and Face Poses based on Restricted Boltzmann Machines},
+	Year = {2013}}
+
+@inproceedings{zhouiccv13w,
+	Author = {Zhou, E. and Fan, H. and Cao, Z. and Jiang Y. and Yin, Q.},
+	Booktitle = {ICCVW},
+	Title = {Facial landmark localization with coarse-to-fine convolutional network cascade},
+	Year = {2013}}
+
+@inproceedings{yanlearn,
+	Author = {Yan, Junjie and Lei, Zhen and Yi, Dong and Li, Stan Z},
+	Booktitle = {ICCVW},
+	Title = {Learn to Combine Multiple Hypotheses for Accurate Face Alignment},
+	Year = {2013}}
+
+@inproceedings{Yu_2013_ICCV,
+	Author = {Xiang Yu and Junzhou Huang and Shaoting Zhang and Wang Yan and Dimitris N. Metaxas},
+	Booktitle = {ICCV},
+	Title = {Pose-Free Facial Landmark Fitting via Optimized Part Mixtures and Cascaded Deformable Shape Model},
+	Year = {2013}}
+
+@inproceedings{yang2012fgface2,
+	Author = {Yang, H and Patras, I},
+	Booktitle = {AFGR},
+	Title = {Privileged information-based Conditional Regression Forests for Facial Feature Detection},
+	Year = {2013}}
+
+@inproceedings{yangfg2013face,
+	Author = {Yang, Heng and Patras, Ioannis},
+	Booktitle = {AFGR},
+	Title = {Privileged Information-based Conditional Regression Forests for Facial Feature Detection},
+	Year = {2013}}
+
+@article{fanelli2012random,
+	Author = {Fanelli, Gabriele and Dantone, Matthias and Gall, Juergen and Fossati, Andrea and Van Gool, Luc},
+	Journal = {IJCV},
+	Number = {3},
+	Pages = {437--458},
+	Publisher = {Springer},
+	Title = {Random forests for real time 3d face analysis},
+	Volume = {101},
+	Year = {2013}}
+
+@inproceedings{burgos2013robust,
+	Author = {Burgos-Artizzu, Xavier P and Perona, Pietro and Doll{\'a}r, Piotr},
+	Booktitle = {ICCV},
+	Title = {Robust face landmark estimation under occlusion},
+	Year = {2013}}
+
+@inproceedings{yangiccv2013,
+	Author = {Yang, H and Patras, I.},
+	Booktitle = {ICCV},
+	Title = {{Sieving regression forests votes for facial feature detection in the wild}},
+	Year = {2013}}
+
+@inproceedings{xiong2013supervised,
+	Author = {Xiong, Xuehan and De la Torre, Fernando},
+	Booktitle = {CVPR},
+	Title = {Supervised Descent Method and its Applications to Face Alignment},
+	Year = {2013}}
+
+@inproceedings{suncvpr2012,
+	Author = {Cao, X. and Wei, Y. and Wen, F. and Sun, J.},
+	Booktitle = {CVPR},
+	Title = {{Face alignment by explicit shape regression}},
+	Year = {2012}}
+
+@inproceedings{devacvpr2012face,
+	Author = {Zhu, X. and Ramanan, D},
+	Booktitle = {CVPR},
+	Title = {{Face detection, pose estimation and landmark localization in the wild}},
+	Year = {2012}}
+
+@inproceedings{yang2012face,
+	Abstract = {In this paper, we propose a method for face parts localization called Structured-Output Regression Forests (SO-RF). We assume that the spatial graph of face parts structure can be partitioned into star graphs associated with individual parts. At each leaf, a regression model
+for an individual part as well as an interdependency model between parts in the star graph is learned. During testing, individual part positions are
+determined by the product of two voting maps, corresponding to two different models . The part regression model captures local feature evidence while the interdependency model captures the structure configuration. Our method has shown state of the art results on the publicly available BioID dataset and competitive results on a more challenging dataset, namely Labeled Face Parts in the Wild},
+	Author = {Yang, Heng and Patras, Ioannis},
+	Booktitle = {Proc. Assian Conf. Computer Vision},
+	Publisher = {Springer},
+	Title = {Face Parts Localization Using Structured-output Regression Forests},
+	Year = {2012}}
+
+@inproceedings{yangaccv2012face,
+	Author = {Yang, H. and Patras, I.},
+	Booktitle = {ACCV},
+	Note = {available at \url{http://www.eecs.qmul.ac.uk/~hy300/}},
+	Title = {Face Parts Localization Using Structured-output Regression Forests},
+	Year = {2012}}
+
+@inproceedings{interactiveECCV2012,
+	Author = {Le, Vuong and Brandt, Jonathan and Lin, Zhe and Bourdev, Lubomir and Huang, Thomas S},
+	Booktitle = {ECCV},
+	Title = {{Interactive facial feature localization}},
+	Year = {2012}}
+
+@article{martinez2012local,
+	Author = {Martinez, B and Valstar, M and Binefa, X and Pantic, M},
+	Journal = {T-PAMI},
+	Publisher = {IEEE},
+	Title = {{Local Evidence Aggregation for Regression Based Facial Point Detection}},
+	Year = {2012}}
+
+@inproceedings{gallfacialcvpr2012,
+	Author = {Dantone, M. and Gall, J. and Fanelli, G. and {Van Gool}, L.},
+	Booktitle = {CVPR},
+	Doi = {10.1109/CVPR.2012.6247976},
+	File = {:home/chris/papers/face/eth\_biwi\_00908.pdf:pdf},
+	Isbn = {978-1-4673-1228-8},
+	Title = {{Real-time facial feature detection using conditional regression forests}},
+	Year = {2012},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1109/CVPR.2012.6247976}}
+
+@article{cocsar2011graphical,
+	Author = {Cocsar, S and \c{C}etin, M},
+	Journal = {Image and Vision Computing},
+	Number = {5},
+	Pages = {335--350},
+	Publisher = {Elsevier},
+	Title = {{A graphical model based solution to the facial feature point tracking problem}},
+	Volume = {29},
+	Year = {2011}}
+
+@inproceedings{kostinger2011annotated,
+	Author = {Kostinger, M and Wohlhart, P and Roth, P M and Bischof, H},
+	Booktitle = {ICCVW},
+	Pages = {2144--2151},
+	Title = {{Annotated Facial Landmarks in the Wild: A Large-scale, Real-world Database for Facial Landmark Localization}},
+	Year = {2011}}
+
+@inproceedings{roh2011face,
+	Author = {Roh, Myung-Cheol and Oguri, Takaharu and Kanade, Takeo},
+	Booktitle = {AFGR},
+	Title = {Face alignment robust to occlusion},
+	Year = {2011}}
+
+@inproceedings{efraty2011facial,
+	Author = {Efraty, B and Huang, C and Shah, S K and Kakadiaris, I A},
+	Booktitle = {IJCB},
+	Title = {{Facial landmark detection in uncontrolled conditions}},
+	Year = {2011}}
+
+@inproceedings{belhumeur2011localizing,
+	Author = {Belhumeur, P N and Jacobs, D W and Kriegman, D J and Kumar, N},
+	Booktitle = {CVPR},
+	Title = {{Localizing parts of faces using a consensus of exemplars}},
+	Year = {2011}}
+
+@inproceedings{rapp2011multiple,
+	Author = {Rapp, V and Senechal, T and Bailly, K and Prevost, L},
+	Booktitle = {AFGR},
+	Title = {{Multiple kernel learning svm and statistical validation for facial landmark detection}},
+	Year = {2011}}
+
+@inproceedings{yang2011sparse,
+	Author = {Yang, Fei and Huang, Junzhou and Metaxas, Dimitris},
+	Booktitle = {AFGR},
+	Title = {Sparse shape registration for occluded facial feature localization},
+	Year = {2011}}
+
+@inproceedings{valstar2011first,
+	Author = {Valstar, M F and Jiang, B and Mehu, M and Pantic, M and Scherer, K},
+	Booktitle = {AFGR},
+	Title = {{The first facial expression recognition and analysis challenge}},
+	Year = {2011}}
+
+@inproceedings{valstar2010facial,
+	Author = {Valstar, M and Martinez, B and Binefa, X and Pantic, M},
+	Booktitle = {CVPR},
+	Title = {{Facial point detection using boosted regression and graph models}},
+	Year = {2010}}
+
+@article{milborrow2010muct,
+	Author = {Milborrow, S and Morkel, J and Nicolls, F},
+	Journal = {Journal of Pattern Recognition Association of South Africa},
+	Title = {{The MUCT landmarked face database}},
+	Year = {2010}}
+
+@inproceedings{saragih2009face,
+	Author = {Saragih, J M and Lucey, S and Cohn, J F},
+	Booktitle = {ICCV},
+	Title = {{Face alignment through subspace constrained mean-shifts}},
+	Year = {2009}}
+
+@article{ekenel2009facial,
+	Author = {Ekenel, Haz{\i}m and Stiefelhagen, Rainer},
+	Journal = {Advances in Biometrics},
+	Pages = {299--308},
+	Publisher = {Springer},
+	Title = {Why is facial occlusion a challenging problem?},
+	Year = {2009}}
+
+@inproceedings{liang2008face,
+	Author = {Liang, L and Xiao, R and Wen, F and Sun, J},
+	Booktitle = {ECCV},
+	Title = {{Face alignment via component-based discriminative search}},
+	Year = {2008}}
+
+@inproceedings{milborrow2008locating,
+	Author = {Milborrow, S and Nicolls, F},
+	Booktitle = {ECCV},
+	Publisher = {Springer},
+	Title = {{Locating facial features with an extended active shape model}},
+	Year = {2008}}
+
+@article{kasinski2008put,
+	Author = {Kasinski, A and Florek, A and Schmidt, A},
+	Journal = {Image Processing and Communications},
+	Number = {3-4},
+	Pages = {59--64},
+	Title = {{The put face database}},
+	Volume = {13},
+	Year = {2008}}
+
+@techreport{LFWTech,
+	Author = {Huang, Gary B and Ramesh, Manu and Berg, Tamara and Learned-Miller, Erik},
+	Institution = {University of Massachusetts, Amherst},
+	Month = oct,
+	Number = {07-49},
+	Title = {{Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments}},
+	Year = {2007}}
+
+@inproceedings{liang2006accurate,
+	Author = {Liang, L and Wen, F and Xu, Y Q and Tang, X and Shum, H Y},
+	Booktitle = {CVPR},
+	Pages = {1313--1319},
+	Title = {{Accurate face alignment using shape constrained Markov network}},
+	Year = {2006}}
+
+@inproceedings{vukadinovic2005fully,
+	Author = {Vukadinovic, D and Pantic, M},
+	Booktitle = {SMC},
+	Title = {{Fully automatic facial feature point detection using Gabor feature based boosted classifiers}},
+	Year = {2005}}
+
+@inproceedings{liao2005locating,
+	Author = {Liao, C T and Wu, Y K and Lai, S H},
+	Booktitle = {International Workshop on Cellular Neural Networks and Their Applications},
+	Title = {{Locating facial feature points using support vector machines}},
+	Year = {2005}}
+
+@article{viola2004robust,
+	Author = {Viola, P and Jones, M J},
+	Journal = {International journal of computer vision},
+	Number = {2},
+	Publisher = {Springer},
+	Title = {{Robust real-time face detection}},
+	Volume = {57},
+	Year = {2004}}
+
+@inproceedings{feris2002hierarchical,
+	Author = {Feris, R S and Gemmell, J and Toyama, K and Kruger, V},
+	Booktitle = {AFGR},
+	Title = {{Hierarchical wavelet networks for facial feature localization}},
+	Year = {2002}}
+
+@inproceedings{jesorsky2001robust,
+	Author = {Jesorsky, O and Kirchberg, K and Frischholz, R},
+	Booktitle = {Audio-and Video-Based Biometric Person Authentication},
+	Organization = {Springer},
+	Title = {{Robust face detection using the hausdorff distance}},
+	Year = {2001}}
